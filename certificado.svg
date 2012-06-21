@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="979.35999"
+   height="744.09448"
+   id="svg3017"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="apme3.svg"
+   inkscape:export-filename="/home/professor/Downloads/apme.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3019">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 372.04724 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="979.35999 : 372.04724 : 1"
+       inkscape:persp3d-origin="489.67999 : 248.03149 : 1"
+       id="perspective34" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="544.08094"
+     inkscape:cy="650.71674"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="1052.36px"
+     inkscape:window-width="1280"
+     inkscape:window-height="725"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3022">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <text
+       xml:space="preserve"
+       style="font-size:17.31030655px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="348.86084"
+       y="819.26959"
+       id="text3395"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0312525,0.96969461)"><tspan
+         sodipodi:role="line"
+         id="tspan3397"
+         x="348.86084"
+         y="819.26959">Cidade, X de xxxxxx de 201X.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:34.6206131px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="480.52301"
+       y="894.99841"
+       id="text3399"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0312525,0.96969461)"><tspan
+         sodipodi:role="line"
+         id="tspan3401"
+         x="480.52301"
+         y="894.99841"
+         style="font-size:17.31030655px;text-align:center;text-anchor:middle">XXXXXX</tspan><tspan
+         sodipodi:role="line"
+         x="480.52301"
+         y="916.63629"
+         id="tspan3403"
+         style="font-size:17.31030655px;text-align:center;text-anchor:middle">Responsável</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.63307434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 364.1718,848.69159 263.323,0"
+       id="path3405"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:34.6206131px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="402.91046"
+       y="559.02075"
+       id="text3407"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0312525,0.96969461)"><tspan
+         sodipodi:role="line"
+         id="tspan3409"
+         x="402.91046"
+         y="559.02075">Certificado</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:34.6206131px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="500.36517"
+       y="432.48203"
+       id="text3411"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0312525,0.96969461)"><tspan
+         sodipodi:role="line"
+         x="500.36517"
+         y="432.48203"
+         style="font-size:20.77236748px;text-align:center;text-anchor:middle"
+         id="tspan3617">Somewhere</tspan></text>
+    <rect
+       style="fill:none;stroke:#008080;stroke-width:5.70152760000000036px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3016"
+       width="956.66364"
+       height="659.21161"
+       x="13.254514"
+       y="352.29089" />
+    <rect
+       y="340.01334"
+       x="25.953121"
+       height="684.43939"
+       width="929.34314"
+       id="rect3018"
+       style="fill:none;stroke:#0000ff;stroke-width:5.72604513000000015px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="fill:none;stroke:#000080;stroke-width:5.76827383000000005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3020"
+       width="905.18176"
+       height="713.11176"
+       x="38.026268"
+       y="325.80533" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3011"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-38,316.2677)"><flowRegion
+         id="flowRegion3013"><rect
+           id="rect3015"
+           width="882.87335"
+           height="175.76654"
+           x="84.852814"
+           y="275.3837" /></flowRegion><flowPara
+         style="font-size:20px;text-align:center;text-anchor:middle"
+         id="flowPara3039"><flowSpan
+           style="font-size:18px;text-align:center;text-anchor:middle"
+           id="flowSpan3019">Certificamos que ALUNO concluiu, com aproveitamento, </flowSpan></flowPara><flowPara
+         style="font-size:20px;text-align:center;text-anchor:middle"
+         id="flowPara3047"><flowSpan
+   style="font-size:18px;text-align:center;text-anchor:middle"
+   id="flowSpan3049">o Curso</flowSpan>. Esse curso foi promovido pelo X, e foi realizado no período de X a X de xxxx de 201X com duração de Xh.</flowPara></flowRoot>  </g>
+</svg>
